@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.container-photo-login{
+  background-image: url('https://accionate.es/wp-content/uploads/cinco-habitos-de-la-gente-feliz-accionate.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container-photo-register{
+  background-image: url('https://s1.abcstatics.com/media/bienestar/2020/02/28/anxo-peldano-5-kEn--1248x698@abc.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-blue-app-light{
+  background-color: rgb(163, 255, 240,0.7);
+}
+.bg-dark-white{
+  background-color: rgb(252, 252, 252);
+}
+
+
+.logo-font{
+  font-family: "Pacifico", cursive;
+}
+.font-amiko{
+  font-family: "Amiko", sans-serif;
+}
+.font-random{
+  font-family: "Dancing Script", cursive;
+}
+.text-color-dark-blue{
+  color: black;
+}
